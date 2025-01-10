@@ -60,8 +60,5 @@ The data used in this project includes:
 ## Conclusion
 This dashboard effectively demonstrates the global and regional impacts of COVID-19, enabling viewers to understand trends, disparities, and insights through visually engaging and interactive charts.
 
----
 
-## Preview
-![COVID-19 Dashboard](image.png)
 
